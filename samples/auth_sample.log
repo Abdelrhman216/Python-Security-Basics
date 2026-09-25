@@ -1,0 +1,5 @@
+Sep 25 09:00:01 lab sshd: Failed password for invalid user admin from 10.20.30.40 port 50001 ssh2
+Sep 25 09:00:04 lab sshd: Failed password for root from 10.20.30.40 port 50002 ssh2
+Sep 25 09:00:07 lab sshd: Failed password for analyst from 10.20.30.40 port 50003 ssh2
+Sep 25 09:02:11 lab sshd: Accepted password for analyst from 10.20.30.40 port 50100 ssh2
+Sep 25 10:15:22 lab sshd: Failed password for test from 192.168.10.25 port 51000 ssh2
